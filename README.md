@@ -1,3 +1,6 @@
+
+https://user-images.githubusercontent.com/72516828/213812727-4967ce39-235e-471c-82ab-818473acb9c6.mp4
+
 # React Calculator
 * This is a simple calcualtor app built using react
 * Lets the user perform basic arithmetic by clicking  buttons on the webpage
